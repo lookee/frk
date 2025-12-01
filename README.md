@@ -48,3 +48,9 @@ Happy hacking!
 Luca Amore
 
 ### Screen
+
+![Julia](https://github.com/lookee/frk/blob/master/img/J1.png?raw=true)
+
+![Mandelbrot](https://github.com/lookee/frk/blob/master/img/m3.png?raw=true)
+
+![Mandelbrot 2](https://github.com/lookee/frk/blob/master/img/m4.png?raw=true)
