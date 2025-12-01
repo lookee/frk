@@ -2,6 +2,8 @@
 
 `frk` is an experimental parallel Mandelbrot and Julia fractal set generator written as my first Erlang application.
 
+Blog Post: https://www.lucaamore.com/?p=283
+
 ## License
 
 Copyright (C) 2011 Luca Amore `<luca.amore@gmail.com>`
